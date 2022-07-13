@@ -21,7 +21,25 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennywong3&layout=compact)](https://github.com/bennywong3/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### My Final Year Project:
+<!-- <a href="https://github.com/bennywong3/Play-Connect4-with-Robotic-Arm-via-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bennywong3&repo=Play-Connect4-with-Robotic-Arm-via-App" />
+</a>
+<a href="https://github.com/bennywong3/c4solver-android-library">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bennywong3&repo=c4solver-android-library" />
+</a>
+<a href="https://github.com/bennywong3/robotic-arm-arduino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bennywong3&repo=robotic-arm-arduino" />
+</a> -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bennywong3&repo=Play-Connect4-with-Robotic-Arm-via-App)](https://github.com/bennywong3/Play-Connect4-with-Robotic-Arm-via-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bennywong3&repo=c4solver-android-library)](https://github.com/bennywong3/c4solver-android-library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bennywong3&repo=robotic-arm-arduino)](https://github.com/bennywong3/robotic-arm-arduino)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bennywong3&repo=connect4solver-cpp)](https://github.com/bennywong3/connect4solver-cpp)
+
+<!-- <a href="https://github.com/bennywong3/connect4solver-cpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bennywong3&repo=connect4solver-cpp" />
+</a> -->
 
 <!--
 **bennywong3/bennywong3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
