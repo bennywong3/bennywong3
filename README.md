@@ -16,6 +16,10 @@
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/adobe-premiere-logo-0B31ECF881-seeklogo.com.png" alt="pr" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/adobe-after-effects-logo-960B473FE4-seeklogo.com.png" alt="ae" width="40" height="40"/> </a>
 
+### Stats:
+[![Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennywong3)](https://github.com/bennywong3/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennywong3&layout=compact)](https://github.com/bennywong3/github-readme-stats)
 
 
 <!--
