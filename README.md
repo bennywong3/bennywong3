@@ -21,6 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennywong3&layout=compact)](https://github.com/bennywong3/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bennywong3/bennywong3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
